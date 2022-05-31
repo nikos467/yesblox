@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "yesblox is a module that makes the interaction with the roblox api easier",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +20,8 @@
   "devDependencies": {
     "ts-node": "^10.8.0",
     "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.4"
   }
 }
