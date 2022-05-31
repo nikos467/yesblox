@@ -1,1 +1,1 @@
-yesblox is a module that makes the interaction with the roblox api easier
+yesblox is a module that makes the interaction with the roblox api easier. This module is still work in progress.
